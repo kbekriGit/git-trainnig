@@ -1,4 +1,5 @@
 <html>
+<head>le head</head>
 <body>
 blabla
 </body>
